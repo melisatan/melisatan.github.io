@@ -1,5 +1,5 @@
 # melisamjtan.github.io
 
-Hello! I created this website to share about my professional work. I do not use any specific theme.
+Hello! I created this website, with no particular theme in mind, to share about my professional work. 
 
 This website is a work in progress. All suggestions are welcome.
